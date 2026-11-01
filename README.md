@@ -17,11 +17,35 @@ I build applied AI systems, backend services, and full-stack applications. My wo
 | [Student-performance ML pipeline](https://github.com/ChetanSrikant/generic_projects) | Data ingestion, preprocessing, model training, and prediction components for a student-performance project. |
 | [Borrower classification](https://github.com/ChetanSrikant/Identifying_Creditworthy_Borrowers) | Machine-learning notebook and Streamlit app exploring borrower credit classification. |
 
-## Tools I work with
+## Tech stack
 
-- **AI & data:** Python, scikit-learn, OpenCV
-- **Web:** JavaScript, React, Next.js, Node.js, Express, Firebase, MongoDB
-- **Workflow:** Git, GitHub, Vercel
+### Languages
+
+![Python, JavaScript, Java, and C++](https://skillicons.dev/icons?i=python,js,java,cpp&theme=dark&perline=6)
+
+### AI & data
+
+![scikit-learn, TensorFlow, and OpenCV](https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark&perline=6)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+
+### Frontend & interaction
+
+![HTML, CSS, React, Next.js, Tailwind CSS, and Three.js](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs&theme=dark&perline=6)
+
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=gsap&logoColor=black)
+
+### Backend & databases
+
+![Node.js, Express, MongoDB, and Firebase](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=6)
+
+### Development & deployment
+
+![Git, GitHub, Vite, and Vercel](https://skillicons.dev/icons?i=git,github,vite,vercel&theme=dark&perline=6)
 
 ## Current focus
 
